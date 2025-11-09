@@ -1,0 +1,11 @@
+name: ExcreleBible
+version: 1.0
+main: com.excrele.bible.BiblePlugin
+api-version: 1.21
+author: excrele
+
+commands:
+  bible:
+    description: Get a Catholic Bible verse (NABRE edition)! Try /bible random for surprise!
+    usage: /bible <book> <chapter> <verse> OR /bible random
+    aliases: [verse, scripture]

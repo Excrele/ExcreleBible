@@ -1,0 +1,4 @@
+com\excrele\bible\BibleFetcher.class
+com\excrele\bible\BiblePlugin.class
+com\excrele\bible\BibleCommand.class
+com\excrele\bible\BibleFetcher$Verse.class
